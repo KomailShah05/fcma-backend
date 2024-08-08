@@ -1,0 +1,12 @@
+# compiled output
+/dist
+/node_modules
+# IDE - VSCode
+.vscode
+.idea
+# files
+.env
+.env.bak
+package-lock.json
+info.log
+error.log
